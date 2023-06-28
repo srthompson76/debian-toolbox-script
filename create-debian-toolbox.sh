@@ -1,5 +1,11 @@
 #!/bin/bash
 
+#I'll be updating this to be less opiniated and
+#more flexible soon. I'll also be adding
+#some scripts that fix issues I've run into
+#using containers to run GUI apps, like DPI
+#fixes so the cursor isn't tiny.
+
 #distro and release variables
 RELEASE=${1:-latest}
 DISTRO=${2:-debian}
